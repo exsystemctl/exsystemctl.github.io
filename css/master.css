@@ -1,0 +1,128 @@
+#u215
+{
+	border-color: #000000;
+	background-color: #242424;
+	position: fixed;
+}
+
+#slideshowu2943
+{
+	position: relative;
+}
+
+#u2946
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u2953,#u3305,#u3314,#u3323,#u3332,#u3341,#u3350,#u3359,#u3368,#u3377,#u3386,#u3395,#u3404,#u3413,#u3422,#u3104,#u3113,#u3122,#u3131,#u3140,#u3149,#u3158,#u3167,#u3176,#u3185,#u3194,#u3203,#u3212
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u2978-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	color: #000000;
+	font-size: 23px;
+	text-align: center;
+	line-height: 32px;
+	font-family: questrial, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u2957-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	color: #000000;
+	font-size: 23px;
+	text-align: center;
+	line-height: 32px;
+	font-family: questrial, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u2978-4:hover,#u2957-4:hover
+{
+	background-color: #000000;
+}
+
+#u2978-4:hover p,#u2957-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u2618
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 40px;
+	line-height: 48px;
+	font-family: montserrat, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u2863
+{
+	background-color: #000000;
+	opacity: 0.45;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
+	filter: alpha(opacity=45);
+}
+
+#u2864
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FEFEFE;
+	font-size: 85px;
+	text-align: left;
+	line-height: 102px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+}
+
+#u2866,#u2867,#u2868
+{
+	background-color: #FEFEFE;
+	position: relative;
+}
+
+#u2869-4,#u2870-4,#u2871-4,#u2872-4
+{
+	background-color: transparent;
+	text-align: center;
+	color: #EFEFEF;
+	position: relative;
+}
+
