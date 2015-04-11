@@ -13,10 +13,10 @@ function showRemaining() {
 	var distance = end - now;
 	if (distance < 0) {
 		clearInterval(timer);
-		document.getElementById('days').innerHTML = '0';
-		document.getElementById('hrs').innerHTML = '0';
-		document.getElementById('mins').innerHTML = '0';
-		document.getElementById('secs').innerHTML = '0';
+		document.getElementById('days').innerHTML = '00';
+		document.getElementById('hrs').innerHTML = '00';
+		document.getElementById('mins').innerHTML = '00';
+		document.getElementById('secs').innerHTML = '00';
 		document.getElementById("audio").src = "sounds/yay.mp3";
 		return;
 	}else{
