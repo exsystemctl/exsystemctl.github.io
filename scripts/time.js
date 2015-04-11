@@ -17,7 +17,8 @@ function showRemaining() {
 		document.getElementById('hrs').innerHTML = '00';
 		document.getElementById('mins').innerHTML = '00';
 		document.getElementById('secs').innerHTML = '00';
-		document.getElementById("audio").src = "sounds/yay.mp3";
+		document.getElementById("audio").src = "";
+		document.getElementById("yay").src = "https://youtube.com/embed/Scp2TtAWjLg?autoplay=1&controls=0&showinfo=0&autohide=1&loop=1&playlist=Scp2TtAWjLg";
 		return;
 	}else{
 		var days = Math.floor(distance / _day);
