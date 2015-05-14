@@ -1,50 +1,57 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<style>
-	html,body {
-	  height: 100%;
-	  margin: 0;
-	  background-color: #DBDBDB;
-	  font-family: 'Roboto', sans-serif;
-	  font-weight: 200;
-	  font-size: 70px;
-	  text-align: center;
-	  margin-top: auto;
-      margin-bottom: auto;
-	}
 
-	.green {
-      position: absolute;
-      top: 0;
-      right: 0;
-      left: 0;
-      height: 350px;
-      background: #00B26B;
-    }	
-	p1 {
-		position:absolute;
-		top:120px;
-		margin-left:-320px;
-		left:57%;
-		text-align: center;
-	}
-	foot {
-		font-size: 20px;
-		position:absolute;
-		left:41%;
-		bottom:0;	
-		text-align: center;
-	}
-	a:link    {color:#000000; background-color:transparent; text-decoration:none}
-	a:visited {color:#000000; background-color:transparent; text-decoration:none}
-	a:hover   {color:#000000; background-color:transparent; text-decoration:none}
-	a:active  {color:#000000; background-color:transparent; text-decoration:none}
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>systemCTL | Developer, Designer, Entrepreneur</title>
+<link href="css/boilerplate.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="images/favicon.ico" rel="shortcut icon" type="image/png">
+<style>
 </style>
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="scripts/respond.min.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300' rel='stylesheet' type='text/css'>
+<link href="https://fontastic.s3.amazonaws.com/cvHqk7VeUeUcoH2PYku2KE/icons.css" rel="stylesheet">
 </head>
-<body>
-	<div class="green"></div>
-	<p1>Coming Soon...</p1>
-	<foot>&copy; 2015 Jack and Jordan. All Rights Reserved.</foot>
+<body class="site">
+<div id="wrapper" class="fluid">
+	<header class="fluid header site-content">
+    <div class="fluid logo" alt="systemCTL"></div>
+	</header>
+  <footer class="fluid footer site-content">  
+    <section class="fluid main">
+      <div class="fluid dash"></div>
+      <div class="fluid text">
+        <h1>
+          Developer<br />
+          Designer<br />
+          Entrepreneur
+        </h1>
+      </div>
+  		<div class="fluid contact">
+        <div class="fluid subText">
+          <p>Want to contact me?</p>
+          <p class="contact"><a class="email" href="mailto:exsystemctl@gmail.com" data-event="Clicked this button">exsystemctl@gmail.com &nbsp&#8641;</a></p>
+        </div>
+      </div>
+    </section>
+  </footer>
+<SCRIPT LANGUAGE="JavaScript">
+  $('[data-event]').on('click', function() {
+  _gs('event', $(this).data('event'));
+});
+</SCRIPT>
+</div>
+
 </body>
 </html>
