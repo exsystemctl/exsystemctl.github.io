@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/systemctl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://exsystemctl.github.io
+  * I am systemctl (https://keybase.io/systemctl) on keybase.
+  * I have a public key with fingerprint A864 54CE 5131 7BB0 67AE  7C1B 3A2D 24E7 1A71 9F6E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a86454ce51317bb067ae7c1b3a2d24e71a719f6e",
+            "host": "keybase.io",
+            "key_id": "3a2d24e71a719f6e",
+            "kid": "01010cc92bbf71699f42e6672cf84cab8ccf04540fd69d833425a4b6e5f1f9a01af30a",
+            "uid": "22c746bb2f02b60b15e2356238cdf519",
+            "username": "systemctl"
+        },
+        "service": {
+            "hostname": "exsystemctl.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432666059,
+    "expire_in": 157680000,
+    "prev": "70f0b4e7f144c001651a8417442ad38cbd240e1483aaac09a4ca5703ed828b88",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIoAnicbZJ7SBRBHMfPLOsuopcERRluEj1EZvYxu3sGBmERWUL0UBOPmd3Zc/O6
+O+/2fGQWpBhSRKWWQgRRRg8LsvpDD9HSKDUkworeGHdBZCQRPSSoWbP+auaPYX7z
++X1nvl+mb1aiw5XwbuvGw96HrXUJg7c3RRzb9e7BKo4E9ErOXcWV0InFMP1eGgqG
+TL/FuTmsIFESNSpBAcqEACRjKmuQCJjXeZHKEMtQNRDl0rniQNjuYDIEh2mGGWA1
+tvGYOqv+hy+ZOACQTU1TeUIMGSJVNUSeIiTzmqGIGiaKphmAPQEYOlJ1RRBEXsIi
+QVQyoKFiALEhAMzkIhNyPK/JIiKENwBPECBQorwgIV5QNN2QoGqDYRry4z2U0eHK
+sEX3aJaPq07nWLnM1KidgW1lEqEV/6AMr2kVR8gfZ8FQwApoAR9Dii0rGHbbElZl
+0O4pp8QzqeYhpl9nibKOMhoKmwE/54aM1CzTloeiwCOEgKSms5uCZoh6TJuQZKQA
+Nux7aBmTlIEBCMvPgKKoAQCRBLEiQlkUeawzc4SlCygUFQFjrAEVs+wkGQhUV3iF
+KApn+yv1Bzi3wJ6JvbZ50+vHViREueo7PYVTHQkuR9K0KfafcLicc/7+lNr49F/Z
+V8gzNc3XsGbH690d+c6jO2nNx18NyVza5iNLTq2ufvXsZnxZrG1Xpu9U6yhHF1we
+/j6ytragp6I9ljvUtGOAH9u2pOH+9TeHoo3NNQMHViWfKPpwa8EiZ3/FvOUFD2ae
+eZs3vLm95UMm3lKQ1JR8LbqyLXXs+NXSy7NfdndmfZ2d+2Z+0Ut04fl2V866uVMP
+lp4f//Tk55NtXTQT/owvfvTjc87B7H17Xc4VDc3xWOsGz/tv647tb4unJt5o3Hq6
+MLU+trvv8YxyOe9c5ZeUiwvvLo1eGu2PdLdwTzfUlnWO93bcM0dH6mrK9cN7s+Il
+688uflE4VD/SJWSfTJk11htdIeaf/Q3DWjQ4
+=UDC/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/systemctl
+
+==================================================================
