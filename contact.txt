@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+If you would like to securely contact me, please refer to my pgp key at https://keybase.io/systemctl/key.asc, and you can email me at exsystemctl@gmail.com.
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJVZrINAAoJEOZSSYtn0KWGscwH/29ltWEyZpTnuizLr+IkDQ0S
+Mcbers0U3LyhGhGOMgazrqABaRul3eeUFzH2S6PyI8H7g1FucY22chn3vemi7Paa
+RFb/Txv5o3vSeVmMutpQnUXlCEobKsbphH9BW3j3orzuQ8Q52UyYP7MT8rdEivQr
+ViLFPltN5V0WPnAwv0vCwunxIwOutOCRHn7qKPg6AMNMqs8OuoEmAtrAxATpaBn6
+MapncWiypSjKAIOg1lFXa1Ft//D86uzz6c+NtyXEtxMg6FgwccoyHUzHlr4d30LM
+1W6oLyFU3vO3p0ceyQpPCpFUGqwVpCKPF7j2ymh8HimgPV4W8q9lK/99SwsHyHE=
+=sY8F
+-----END PGP SIGNATURE-----
